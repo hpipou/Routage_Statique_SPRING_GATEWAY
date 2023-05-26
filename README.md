@@ -36,6 +36,7 @@ spring.cloud.gateway.routes[1].predicates[0]=Path=/api2/**
 spring.cloud.gateway.routes[1].filters[0]=StripPrefix=1
 ```
 <br>
+
 ## Avec application.yml
 
 ```yaml
