@@ -1,6 +1,6 @@
 # ROUTAGE STATIQUE AVEC SPRING CLOUD GATEWAY
 
-## 3 méthodes pour faire un routage statiques :
+## 3 méthodes pour faire un routage statique :
 - [x]  Avec un @Bean
 - [x]  Avec application.propreties
 - [x]  Avec application.yaml
