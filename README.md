@@ -37,6 +37,7 @@ spring.cloud.gateway.routes[1].filters[0]=StripPrefix=1
 ```
 <br>
 ## Avec application.yml
+
 ```yaml
 spring:
   cloud:
@@ -55,6 +56,7 @@ spring:
           filters:
             - StripPrefix=1
 ```
+
 <br>
 <div align="center">
   <img src="https://github.com/hpipou/Routage_Statique_SPRING_GATEWAY/blob/main/routagestatique.jpg"/><br>
